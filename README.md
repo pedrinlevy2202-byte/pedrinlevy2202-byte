@@ -55,7 +55,7 @@
 ## 🏆 Certificates
 
 - 📜 Fundação Bradesco
-- ☁️ [Google Cloud Badge](https://www.credly.com/badges/d92b075f-a6ab-43f2-8d17-b522f9c866cf/public_url)
+- 🛡️ [CIP - OPSWAT Academy](https://www.credly.com/badges/d92b075f-a6ab-43f2-8d17-b522f9c866cf/public_url)
 - 🇧🇷 Hackers do Bem (Federal Brazilian Program)
 
 ---
